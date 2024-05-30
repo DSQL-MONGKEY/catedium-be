@@ -1,0 +1,62 @@
+[
+   {
+      "breed": "African Leopard (Panthera pardus)",
+      "characteristic": "bla bla bla....",
+      "description": "bla bla bla...",
+      "ageRate": "10-20yr"
+   },
+   {
+      "breed": "Caracal (Caracal caracal)",
+      "characteristic": "bla bla bla....",
+      "description": "bla bla bla...",
+      "ageRate": "10-20yr"
+   },
+   {
+      "breed": "Cheetah (Acinonyx jubatus)",
+      "characteristic": "bla bla bla....",
+      "description": "bla bla bla...",
+      "ageRate": "10-20yr"
+   },
+   {
+      "breed": "Clouded Leopard (Neofelis nebulosa)",
+      "characteristic": "bla bla bla....",
+      "description": "bla bla bla...",
+      "ageRate": "10-20yr"
+   },
+   {
+      "breed": "Jaguar (Panthera onca)",
+      "characteristic": "bla bla bla....",
+      "description": "bla bla bla...",
+      "ageRate": "10-20yr"
+   },
+   {
+      "breed": "Lion (Panthera leo)",
+      "characteristic": "bla bla bla....",
+      "description": "bla bla bla...",
+      "ageRate": "10-20yr"
+   },
+   {
+      "breed": "Ocelot (Leopardus pardalis)",
+      "characteristic": "bla bla bla....",
+      "description": "bla bla bla...",
+      "ageRate": "10-20yr"
+   },
+   {
+      "breed": "Puma (Puma concolor))",
+      "characteristic": "bla bla bla....",
+      "description": "bla bla bla...",
+      "ageRate": "10-20yr"
+   },
+   {
+      "breed": "Snow Leopard (Panthera uncia)",
+      "characteristic": "bla bla bla....",
+      "description": "bla bla bla...",
+      "ageRate": "10-20yr"
+   },
+   {
+      "breed": "Tiger (Panthera tigris)",
+      "characteristic": "bla bla bla....",
+      "description": "bla bla bla...",
+      "ageRate": "10-20yr"
+   }
+]
