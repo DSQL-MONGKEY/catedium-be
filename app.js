@@ -3,7 +3,7 @@ const catRoutes = require('./routes/catRoutes')
 const app = express();
 
 app.use(express.json());
-app.use('/api/cat', catRoutes);
+app.use('/api', catRoutes);
 
 app.use((err, req, res, next) => {
    console.error(err.stack);
